@@ -1,0 +1,3 @@
+<?php
+
+include_once('jumpjet_wysiwyg_engine.features.inc');
